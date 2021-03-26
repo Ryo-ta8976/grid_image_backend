@@ -23,6 +23,11 @@ class ImagesController < ApplicationController
         end
     end
 
+    def search
+        images = Image.search(params[:label])
+        render json: images
+    end
+
     private
 
     def set_image
