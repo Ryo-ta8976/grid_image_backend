@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  label: MyString
-  url: MyString
+  label: breakfast
+  url: https://images.unsplash.com/photo-1551963831-b3b1ca40c98e
 
 two:
-  label: MyString
-  url: MyString
+  label: burgar
+  url: https://images.unsplash.com/photo-1551782450-a2132b4ba21d
