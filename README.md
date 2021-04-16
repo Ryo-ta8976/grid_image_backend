@@ -1,4 +1,4 @@
-# Grid Image App
+# Grid Image AppのAPIサーバ
  
 画像をグリッド表示する。
 また、画像URLの投稿、検索が可能である。
